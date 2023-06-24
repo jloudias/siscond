@@ -1,0 +1,13 @@
+{
+    "[python]": {
+        "editor.defaultFormatter": "ms-python.python"
+    },
+    "python.formatting.provider": "none",
+    "python.autoComplete.extraPaths": [
+        "/home/jorge/sistema_condominio"
+    ],
+    "python.analysis.extraPaths": [
+        "/home/jorge/sistema_condominio"
+    ],
+    "python.analysis.typeCheckingMode": "basic",
+}
